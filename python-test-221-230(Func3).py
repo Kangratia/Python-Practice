@@ -77,7 +77,7 @@ def calc_monthly_salary(annual_salary):
     print(int(annual_salary/12))
 calc_monthly_salary(24000000)
 
-# 229
+# 229ㅙㅈ
 # 아래 코드의 실행 결과를 예측하라.
 def my_print (a, b) :
     print("왼쪽:", a)
