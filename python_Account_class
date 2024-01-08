@@ -100,3 +100,6 @@ account1 = Account("Alice", 1000)
 account2 = Account("Bob", 500)
 
 account1.transfer(200, account2)
+account1.display_info()
+#계좌입금
+account1.deposit(1000)
